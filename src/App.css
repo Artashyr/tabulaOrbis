@@ -1,0 +1,35 @@
+@import './css/fonts.css';
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  margin-top: 35px;
+  height: 80px;
+}
+
+.App-header {
+  background-image: url(./images/tabletopBackground.png);
+  height: 140px;
+  padding: 20px;
+}
+
+.App-headerImage {
+  background: url(./images/tabletopBanner.png) no-repeat center;
+  height: 160px;
+  margin-top: -20px;
+  padding: 0 0 20px 0;
+}
+
+.App-intro {
+  font-family: Bangers;
+  margin-top: -10px;
+  font-size: 25px;
+  color: black;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
