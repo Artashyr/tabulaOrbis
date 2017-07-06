@@ -65,6 +65,5 @@ Note that **the project only includes a few ES6 [polyfills](https://en.wikipedia
 If you use any other ES6+ features that need **runtime support** (such as `Array.from()` or `Symbol`), make sure you are including the appropriate polyfills manually, or that the browsers you are targeting already support them.
 
 ### Heroku
-Hosting has not been implemented as of yet, project is intended to be hosted using Heroku
 
-TODO: Heroku is intended to host this project. Correct changes README.md when complete
+TODO: Hosting has not been implemented as of yet, project is intended to be hosted using Heroku
