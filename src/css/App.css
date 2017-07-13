@@ -1,4 +1,4 @@
-@import './css/fonts.css';
+@import 'fonts.css';
 
 .App {
   text-align: center;
@@ -10,13 +10,13 @@
 }
 
 .App-header {
-  background-image: url(./images/tabletopBackground.png);
+  background-image: url(../images/tabletopBackground.png);
   height: 140px;
   padding: 20px;
 }
 
 .App-headerImage {
-  background: url(./images/tabletopBanner.png) no-repeat center;
+  background: url(../images/tabletopBanner.png) no-repeat center;
   height: 160px;
   margin-top: -20px;
   padding: 0 0 20px 0;

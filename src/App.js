@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './images/logo.gif';
-import './App.css';
+import './css/App.css';
 
 class App extends Component {
   render() {
@@ -14,7 +14,6 @@ class App extends Component {
                 </p>
             </div>
         </div>
-
       </div>
     );
   }
